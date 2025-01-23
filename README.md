@@ -2,7 +2,9 @@
 
 ### Contexte du projet  
 Donation Goal pour l'événement caritatif ***14, 15 et 16 février 2025*** organisé par [Atrandos](https://www.twitch.tv/atrandos) 
+
 Site de l'événement : [GRT-Associatif](https://grt-associatif.fr/)
+
 Réseau de l'événement : [Instagram](https://www.instagram.com/grtreborn?igsh=MXVmZmI1OW51M2lkbA==)
 
 ### Objectifs du projet  
