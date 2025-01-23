@@ -2,8 +2,8 @@
 
 ### Contexte du projet  
 Donation Goal pour l'événement caritatif ***14, 15 et 16 février 2025***.  
-Site de l'événement : [grtassociatif](https://grt-associatif.fr/)  
-Site du générateur d'équipe : [générateur](szczapa.github.io/MarvelTerriblePick/)
+Site de l'événement : [GRT Associatif](https://grt-associatif.fr/)  
+Site du générateur d'équipe : [Terrible Team](szczapa.github.io/MarvelTerriblePick/)
 ### Objectifs du projet  
 - ✔️ Générer une équipe aléatoire pour les streamers, imposant leurs rôles dans la partie.  
 
